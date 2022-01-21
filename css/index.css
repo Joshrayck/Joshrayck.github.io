@@ -1,0 +1,22 @@
+h1{
+    text-align: left;
+}
+
+header{
+    background-color: red;
+    text-align: center;
+}
+
+body{
+    background-color: aqua;
+}
+
+.nav-bar{
+    text-align: left;
+}
+
+#logo{
+    height: 200px;
+    width: 200px;
+
+}
